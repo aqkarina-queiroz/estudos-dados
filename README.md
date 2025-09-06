@@ -6,4 +6,4 @@ Aqui vou registrar meu aprendizado em:
 - Python
 - SQL
 - Análise de Dados
-
+- AWS
