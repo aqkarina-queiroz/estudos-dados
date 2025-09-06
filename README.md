@@ -6,7 +6,7 @@ Aqui compartilho meus estudos e projetos de **Python, SQL, Análise de Dados e A
 ## Sobre mim
 - Em transição de carreira para a área de **Dados**.  
 - Experiência profissional sólida no mercado financeiro.  
-- Atualmente estudando: Python, SQL, análise de dados e fundamentos de AWS.  
+- Atualmente estudando: Python, SQL, análise de dados, fundamentos de AWS IA e AWS Cloud 
 
 ## Habilidades
 **Linguagens:** Python (pandas, numpy), SQL  
@@ -45,5 +45,5 @@ https://colab.research.google.com/github/aqkarina-queiroz/estudos-dados/blob/mai
 ---
 
 ## Contato
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/karina-queiroz-passari)  
-- **E-mail:** seuemail@exemplo.com
+- **LinkedIn:** (https://www.linkedin.com/in/karina-queiroz-passari)  
+- **E-mail:** aqkarina1005@gmail.com
