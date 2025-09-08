@@ -11,9 +11,13 @@ Aqui compartilho meus estudos e projetos de SQL, Análise de Dados, AWS e Python
 ## Habilidades
 **Linguagens:** Python (pandas, numpy) e SQL
 **Ferramentas:** Google Colab, Git/GitHub, Excel  
-**Outros:** Visualização básica, limpeza e exploração de dados  
+**Outros:** Visualização básica, limpeza e exploração de dados 
 
----
+## 🌍 Idiomas
+- Português: Nativo  
+- Inglês: Em aprendizado (Conquer English)  
+ 
+ ---
 
 # 📅 Roadmap de Estudos
 
