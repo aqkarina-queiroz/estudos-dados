@@ -9,7 +9,7 @@ Aqui compartilho meus estudos e projetos de SQL, Análise de Dados, AWS e Python
 - Atualmente estudando: SQL, análise de dados, fundamentos de AWS IA e AWS Cloud 
 
 ## Habilidades
-**Linguagens:** Python (pandas, numpy) e SQL
+**Linguagens:** SQL e em desenvolvimento  Python 
 **Ferramentas:** Google Colab, Git/GitHub, Excel  
 **Outros:** Visualização básica, limpeza e exploração de dados 
 
