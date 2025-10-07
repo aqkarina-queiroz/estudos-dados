@@ -48,3 +48,14 @@ Aqui compartilho meus estudos e projetos de SQL, Análise de Dados, AWS e Python
 ## Contato
 - **LinkedIn:** (https://www.linkedin.com/in/karina-queiroz-passari)  
 - **E-mail:** aqkarina1005@gmail.com
+
+
+---
+
+## 🔗 Links úteis
+
+- 📘 [Análise técnica no Google Colab](https://colab.research.google.com/drive/160sY0aazm78N8qrvsveltORF5Ngpq6D-#scrollTo=CMLERjzhQT-m)
+- 💻 [Repositório GitHub – estudos-dados](https://github.com/aqkarina-queiroz/estudos-dados)
+- 📊 Dashboard interativo via Streamlit  
+  O dashboard pode ser executado localmente com o comando:  
+  `streamlit run dashboard_nps.py`
