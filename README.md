@@ -1,61 +1,70 @@
-# Portfólio de Dados — Karina Queiroz Passari
+# Olá, sou a Karina Queiroz Passari 👋
 
-Bem-vindo(a)! 👋  
-Aqui compartilho meus estudos e projetos de SQL, Análise de Dados, AWS e Python.
+> *"20 anos na área comercial me ensinaram a ouvir, negociar e resolver. Agora aplico tudo isso no mundo dos dados e tecnologia."*
 
-## Sobre mim
-- Em transição de carreira para a área de **Engenharia de Dados**.  
-- Experiência profissional sólida no mercado financeiro.  
-- Atualmente estudando: SQL, análise de dados, fundamentos de AWS IA e AWS Cloud 
+Profissional em transição de carreira, com quase 10 anos no mercado financeiro como Gerente de Relacionamento PJ no Itaú Unibanco. Hoje construo uma nova trajetória na área de dados — trazendo junto toda a bagagem de negócios, análise de carteira e visão estratégica.
 
-## Habilidades
-**Linguagens:** SQL e em desenvolvimento  Python 
-**Ferramentas:** Google Colab, Git/GitHub, Excel  
-**Outros:** Visualização básica, limpeza e exploração de dados 
-
-## 🌍 Idiomas
-- Português: Nativo  
-- Inglês: Em aprendizado (Conquer English)  
- 
- ---
-
-# 📅 Roadmap de Estudos
-
-### 1. Fundamentos
-- [ ] SQL (SELECT, JOIN, GROUP BY, filtros, subqueries)  
-- [ ] Bancos de dados relacionais (MySQL, PostgreSQL)  
-- [ ] NoSQL (conceito e visão geral)  
-
-### 2. AWS e Nuvem
-- [ ] AWS S3 (armazenamento de dados)  
-- [ ] AWS Glue (ETL)  
-- [ ] AWS Athena (consultas SQL na nuvem)  
-- [ ] Conceitos de Data Lake e Data Warehouse  
-
-### 3. Integração de Dados
-- [ ] Entender processos de ETL/ELT  
-- [ ] Criar pipelines de dados  
-- [ ] Conhecer Apache Airflow (noções)  
-
-### 4. Visualização Básica
-- [ ] Power BI (básico)  
-- [ ] AWS QuickSight (básico)  
-
-
----
-✍️ *Este repositório será atualizado conforme avanços nos estudos e novos projetos.*
-
-## Contato
-- **LinkedIn:** (https://www.linkedin.com/in/karina-queiroz-passari)  
-- **E-mail:** aqkarina1005@gmail.com
-
+Cursando **Tecnologia em Banco de Dados** pela Unicesumar.
 
 ---
 
-## 🔗 Links úteis
+## 🗂️ Projetos
 
-- 📘 [Análise técnica no Google Colab](https://colab.research.google.com/drive/160sY0aazm78N8qrvsveltORF5Ngpq6D-#scrollTo=CMLERjzhQT-m)
-- 💻 [Repositório GitHub – estudos-dados](https://github.com/aqkarina-queiroz/estudos-dados)
-- 📊 Dashboard interativo via Streamlit  
-  O dashboard pode ser executado localmente com o comando:  
-  `streamlit run dashboard_nps.py`
+### 📊 Análise de NPS — Segmento Financeiro
+Análise exploratória de dados de satisfação de clientes aplicada ao contexto bancário. Inclui limpeza de dados, cálculo de NPS por segmento, visualizações e dashboard interativo.
+
+**Tecnologias:** Python · Pandas · Matplotlib · Streamlit  
+**Arquivos:** `case_nps_karina.ipynb` · `dashboard_nps.py`  
+[→ Ver projeto](./case_nps_karina.ipynb)
+
+---
+
+### 🔜 Análise de Carteira PJ — Performance Comercial *(em desenvolvimento)*
+Simulação de análise de performance de carteira com 5 gestores, ~3.750 clientes PJ e 7 produtos financeiros em 12 meses. Baseado em experiência real de gestão de carteira no Itaú Empresas.
+
+**Tecnologias previstas:** Python · SQL · Power BI · DAX
+
+---
+
+## 🛠️ Habilidades
+
+| Área | Ferramentas |
+|---|---|
+| Linguagens | SQL · Python (em desenvolvimento) |
+| Visualização | Power BI · Matplotlib · Streamlit |
+| Banco de Dados | MySQL · PostgreSQL · NoSQL (conceitos) |
+| Cloud | Google Cloud (Fundamentos) · AWS (em andamento) |
+| Ambiente | Google Colab · Git · GitHub · Excel |
+
+---
+
+## 📜 Certificações e Formação
+
+- 🎓 Tecnologia em Banco de Dados — Unicesumar *(em andamento)*
+- ☁️ Certificado de Fundamentos de Computação em Nuvem — Google Cloud *(em andamento)*
+- ☁️ AWS Treina Brasil — Santander + AWS *(em andamento)*
+- 📊 SQL e Power BI — cursos complementares
+
+---
+
+## 📚 Roadmap de Estudos
+
+- [x] SQL (SELECT, JOIN, GROUP BY, subqueries)
+- [x] Python básico para análise de dados
+- [x] Bancos de dados relacionais
+- [ ] Google Cloud Fundamentals *(maio/2026)*
+- [ ] AWS Cloud Practitioner
+- [ ] Projeto de portfólio — Carteira PJ
+- [ ] Power BI avançado + DAX
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karina--queiroz--passari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/karinaqueirozpassari)
+[![Gmail](https://img.shields.io/badge/Gmail-aqkarina1005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aqkarina1005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aqkarina--queiroz-181717?style=flat&logo=github)](https://github.com/aqkarina-queiroz)
+
+---
+
+*Repositório atualizado conforme avanços nos estudos e novos projetos.*
